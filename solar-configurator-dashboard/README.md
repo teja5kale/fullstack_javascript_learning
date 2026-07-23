@@ -88,11 +88,11 @@ Override with a `.env` file containing `REACT_APP_API_URL=<your-api-url>`.
 
 ## Course-to-Feature Mapping
 
-| Course Topic       | Project Feature                              |
-|---------------------|-----------------------------------------------|
-| HTML/CSS            | Responsive dashboard, forms                   |
-| JavaScript          | Validation, calculations, DOM logic           |
-| React               | Components, Hooks, Router                     |
+| Course Topic        | Project Feature                                |
+|---------------------|------------------------------------------------|
+| HTML/CSS            | Responsive dashboard, forms                    |
+| JavaScript          | Validation, calculations, DOM logic            |
+| React               | Components, Hooks, Router                      |
 | Node.js             | REST APIs                                      |
 | Express             | Backend services                               |
 | Databases           | PostgreSQL                                     |
